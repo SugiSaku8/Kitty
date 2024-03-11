@@ -1,6 +1,6 @@
 {
-  "name": "Kitty",
-  "version": "0.0.5",
+  "name": "kitty_base",
+  "version": "0.0.1",
   "description": "Kitty is a base system that can be used in any program.",
   "main": "index.js",
   "scripts": {
