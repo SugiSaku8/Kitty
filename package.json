@@ -1,0 +1,21 @@
+{
+  "name": "Kitty",
+  "version": "0.0.5",
+  "description": "Kitty is a base system that can be used in any program.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "BaseSystem",
+    "Based",
+    "BaseSystemProgram"
+  ],
+  "author": "Sugisaku8",
+  "license": "BSD",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/SugiSaku8/kitty"
+  },
+  "homepage": "https://github.com/SugiSaku8/kitty"
+}
